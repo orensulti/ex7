@@ -1,0 +1,55 @@
+orens
+201557972
+Oren Sultan
+
+I did the exercise without consulting
+
+======================================
+=  README for ex7 
+======================================
+
+usage: python3 ex7
+       python3 hanoi_game.py
+
+
+==================
+=  Description:  =
+==================
+
+
+
+1. print_to_n(n)
+2. print_reversed(n)
+3. is_prime(n)
+	3.1 has_divisor_smaller_than(n, i)
+4. divisors(n)
+	4.1 divisor(n, i, divisors_lst)
+5. exp_n_x(n, x)
+	5.1 pow_x_n(x, n)
+	5.2 factorial(n)
+6. play_hanoi(hanoi, n, src, dest, temp)
+7. print_binary_sequences(n)
+	7.1 print_binary_sequences_with_prefix(prefix, n)
+8. print_sequences(char_list, n)
+	8.1 remove_duplicates(char_list)
+	8.2 print_sequences_with_prefix(prefix, char_list, n)
+9. print_no_repetition_sequences(char_list, n)
+	9.1 print_sequences_with_prefix_no_repetition(prefix, char_list, n)
+10. no_repetition_sequences_list(char_list, n)
+	10.1 sequences_with_prefix_no_repetition(prefix, char_list, new_list, n)
+
+
+
+=============================
+=  List of submitted files: =
+=============================
+
+README	This file
+
+ex7.py  Contains the implementation of all required functions 
+and some functions which I added
+
+
+========================
+=  Special Comments  =
+========================
